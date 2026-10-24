@@ -2,6 +2,10 @@
 
 Userscripts for the underground and the masses.
 
+![myanimelist](myanimelist.png) ![letterboxd](letterboxd.png)
+
+
+
 ## Userscripts
 
 | Site | Filtering options | Install |
